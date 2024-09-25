@@ -1,0 +1,4 @@
+git init
+git add <fileName> or * (included qll files)
+git commit -m "(ur message)"
+git push <remoteName> <branchName>
