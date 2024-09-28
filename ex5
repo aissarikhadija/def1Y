@@ -1,0 +1,32 @@
+
+#include <stdio.h>
+#include <math.h>
+
+
+int main() {
+    // Write C code here
+float a,b;
+float s,m,d,S;
+printf("saisir la valeur du a:");
+scanf("%f",&a);AAa
+printf("saisir la valeur de b:");
+scanf("%f",&b);
+s=a+b;
+m=a*b;
+S=a-b;
+d=a\b;
+printf("%f+%f=%.2f\n",a,b,s);
+printf("%f*%f=%.2f\n",a,b,m);
+printf("%f/%f=%.2f\n",d);
+printf("%f-%f=%.2f\n",S);
+
+
+
+
+
+
+
+
+
+
+
